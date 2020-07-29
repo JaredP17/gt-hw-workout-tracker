@@ -1,9 +1,10 @@
-# gt-hw-workout-tracker
+# Unit 17 Nosql Homework: Workout Tracker
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
+An app that allows you to view, create, and track daily workouts. This app uses a Mongo database with a Mongoose schema and handles routes with Express.
 
 
 ## Table of Contents
